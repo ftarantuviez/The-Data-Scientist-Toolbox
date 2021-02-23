@@ -1,0 +1,3 @@
+1. https://github.com/ftarantuviez/The-Data-Scientist-Toolbox
+2. https://github.com/ftarantuviez/The-Data-Scientist-Toolbox/blob/master/Week%204/quizzes/final_assigment/helloWorld.md
+3. https://github.com/ftarantuviez/datasharing
